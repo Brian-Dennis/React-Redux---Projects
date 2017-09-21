@@ -25,5 +25,5 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 =======
 ## React-Redux---Projects
 
---Project-1-- Youtube Clone with React<br>
---Project-2-- bookInfo with Redux<br>
+--Project-1-- Youtube Clone with React <br>
+--Project-2-- bookInfo with Redux <br>
