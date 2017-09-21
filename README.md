@@ -13,7 +13,7 @@ Things you need to install the software and how to install them
 
 ```
 Git bash || Terminal || Git gui client i.e. GitKraken
-Also will need Node with NPM to install the dependencies after cloning the repo - `https://nodejs.org/en/`
+Also will need Node with NPM to install the dependencies after cloning the repo - https://nodejs.org/en/
 ```
 
 ### Installing
@@ -52,9 +52,9 @@ Unpacking objects: 100% (49/49), done.
 After cloning the compilation of projects you will want to cd into the directory of the project you wish to visit I will use
 the YouTubeClone project as the example of how this is done.
 ```
-Brians-MacBook-Pro:React-Redux---Projects briandennis$ `ls`
+Brians-MacBook-Pro:React-Redux---Projects briandennis$ ls
 YoutubeClone	bookInfo
-Brians-MacBook-Pro:React-Redux---Projects briandennis$ `cd YouTubeClone`
+Brians-MacBook-Pro:React-Redux---Projects briandennis$ cd YouTubeClone
 Brians-MacBook-Pro:YouTubeClone briandennis$ 
 ```
 In the above example I ran `ls` to list all directories in the current working directory.<br>
