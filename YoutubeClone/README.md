@@ -20,4 +20,4 @@ If you are only looking to get this project on your machine out of this reposito
 
 ## Viewing the project locally in your browser after running npm start
 
-this project is set to run on port `3000` of your local machine if you wish to view it inside your favorite browser just type `localhost:3000` inside of your url address bar. Then the project should be viewable via your choice of browser.
+this project is set to run on port `8080` of your local machine if you wish to view it inside your favorite browser just type `localhost:8080` inside of your url address bar. Then the project should be viewable via your choice of browser.
